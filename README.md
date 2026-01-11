@@ -1,6 +1,6 @@
 ### Jeff Jaureguy
 
-Bioinformatics Scientist at UC San Diego and Salk Institute. Building foundation models for genomics and tools for variant interpretation. Interested in AI safety and interpretability in biological and artificial neural networks.
+Bioinformatics Scientist at UC San Diego and Salk Institute. Building foundation models for genomics and tools for variant interpretation.
 
 #### Current Work
 

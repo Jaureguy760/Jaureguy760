@@ -1,0 +1,6 @@
+{
+  "enabledPlugins": [
+    "velocity-workflow"
+  ],
+  "env": {}
+}
